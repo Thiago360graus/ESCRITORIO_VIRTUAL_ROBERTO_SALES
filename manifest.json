@@ -1,8 +1,4 @@
 {
- "name": "ESCRITORIO ROBERTO SALES",
- "background_color": "#000000",
- "display": "fullscreen",
- "theme_color": "#000000",
  "icons": [
   {
    "type": "image/png",
@@ -40,5 +36,9 @@
    "src": "misc/icon64.png"
   }
  ],
+ "theme_color": "#000000",
+ "name": "ESCRITORIO ROBERTO SALES",
+ "display": "fullscreen",
+ "background_color": "#000000",
  "start_url": "index.htm"
 }
