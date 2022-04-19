@@ -36,9 +36,9 @@
    "src": "misc/icon64.png"
   }
  ],
- "theme_color": "#000000",
  "name": "ESCRITORIO ROBERTO SALES",
  "display": "fullscreen",
- "background_color": "#000000",
- "start_url": "index.htm"
+ "start_url": "index.htm",
+ "theme_color": "#000000",
+ "background_color": "#000000"
 }
